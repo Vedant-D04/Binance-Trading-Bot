@@ -1,0 +1,41 @@
+License scope
+
+The MIT License below applies to Vedant Desai's author-owned implementation
+and explanatory comments in cli.py and Python files under src/, and
+author-owned prose in README.md. It includes those contributions in revision
+969c51ee7180805b216ac281992f7427dec9e373 and subsequent revisions unless
+otherwise noted.
+
+Other repository files, submission_proofs/ assets, third-party code,
+challenge materials, service data, and branding are outside this grant.
+Imported python-binance, python-dotenv, Typer, and Rich components retain
+their separate upstream licenses and notices. Retain applicable third-party
+notices separately, and retain the copyright and MIT notice below for
+substantial portions of the covered contributions.
+
+No specific external tutorial source or revision has been established.
+Selected distinctive-passage searches found only this repository in indexed
+GitHub results; this is not proof of originality. This grant covers only
+contributions the author has authority to license.
+
+MIT License
+
+Copyright (c) 2026 Vedant Apurva Desai (Vedant-D04)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
