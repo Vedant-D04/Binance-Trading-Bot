@@ -75,3 +75,7 @@ trading_bot/
 ├── requirements.txt
 └── README.md
 ```
+
+## License
+
+Author-owned Python code and README prose are covered by the scoped [MIT License](LICENSE). Submission assets, challenge materials, and third-party components are outside this grant; dependencies retain their separate terms. See LICENSE for attribution and provenance limits.
